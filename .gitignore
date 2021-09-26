@@ -1,0 +1,7 @@
+tokens
+src/main/resources/credentials.json
+*.xlsx
+/.gradle/
+build
+.gradle
+.idea
